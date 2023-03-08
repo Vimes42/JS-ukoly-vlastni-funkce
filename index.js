@@ -1,5 +1,4 @@
 //úkol č. 1
-// tohle by i podle řešení mělo fungovat, ale nemůžu přijít na to, proč se mi to nevypisuje do konzole.
 
 const parseDate = (date) => {
     return {
